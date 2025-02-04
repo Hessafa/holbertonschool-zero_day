@@ -1,1 +1,1 @@
-my first readme
+Root README for the holbertonschool-zero-day respository
